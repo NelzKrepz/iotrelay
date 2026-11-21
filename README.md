@@ -38,7 +38,7 @@ Berikut konfigurasi jaringan dan perangkat yang digunakan:
 5. Web interface akan menampilkan empat channel relay yang dapat dikontrol secara independen.
 
 ## Pin Configuration
-
+[skema.png](https://github.com/NelzKrepz/iotrelay/blob/main/skema.png)
 ### ESP32 to Relay Module
 
 | ESP32 GPIO | Relay Channel | Input Pin |
