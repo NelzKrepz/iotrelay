@@ -1,5 +1,5 @@
 # ESP32 IoT Relay Controller
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKO40R__j0A?si=BFaEUXFVNBVsPPas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Sistem kontrol relay berbasis Internet of Things (IoT) menggunakan ESP32 dan modul relay 4 channel. Project ini memungkinkan pengguna untuk mengontrol perangkat elektronik melalui web interface yang dapat diakses menggunakan browser pada HP maupun laptop.
 
 ESP32 beroperasi dalam mode **Access Point (AP)** sehingga dapat membuat jaringan Wi-Fi sendiri tanpa memerlukan router atau koneksi internet. Web server juga dijalankan langsung pada ESP32, sehingga pengguna cukup terhubung ke jaringan Wi-Fi perangkat untuk mengakses halaman kontrol.
